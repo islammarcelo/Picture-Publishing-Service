@@ -2,7 +2,7 @@
 Backend By Spring boot to enable user to upload photo and view it at landing page.
 - Landing page which has all accepted images.
 
-## we have two type of user admin and user, Everyone of them has particular flow.
+## We have two type of user admin and user, Everyone of them has particular flow.
 
 ## 🔍 Admin Flow:
 - Admin can login by email and password.
