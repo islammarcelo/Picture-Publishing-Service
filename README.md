@@ -19,11 +19,13 @@ rejected.
 - After that user can upload image through endpoint uploadImage.
 
 ## 🎯 Features:
-Used Java & Spring Boot Framework.
+- Java & Spring Boot Framework.
+- Spring Security
 - Spring Data JPA.
 - PostgreSQL Database.
 - MVC Architectur Pattern.
 - Builder Design Pattern.
 - Dependency Injection.
-- Unit Test
+- Unit Test.
 - 📝 Writing Clean Code As I Can.
+- Postman Documentation.
